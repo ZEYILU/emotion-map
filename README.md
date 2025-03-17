@@ -2,7 +2,8 @@
 
 An interactive web application that visualizes emotions and personal stories from around the world. Users can filter emotions, add their own stories, and even play a mini-game.
 
-![Emotion Map Screenshot](https://placeholder-for-your-screenshot.png)
+![image](https://github.com/user-attachments/assets/f035d2e2-d3c3-4b7c-b2a4-9b51d3a2b341)
+
 
 ## Features
 
